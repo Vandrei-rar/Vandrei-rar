@@ -67,9 +67,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vandrei-rar&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Vandrei-rar&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=j/n[/Y]&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-# <img src="https://raw.githubusercontent.com/Vandrei-rar/Vandrei-rar/output/snake.svg" alt="Snake animation" />
-
-###

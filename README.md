@@ -70,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Vandrei-rar/Vandrei-rar/output/snake.svg" alt="Snake animation" />
+# <img src="https://raw.githubusercontent.com/Vandrei-rar/Vandrei-rar/output/snake.svg" alt="Snake animation" />
 
 ###

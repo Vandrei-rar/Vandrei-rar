@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Entusiasta por tecnologia, apaixonado por conhecimento, curioso por tudo. 💙<br>Atualmente mais experiente em tecnologias WEB. 🕸️<br>Aprendendo cada vez mais sobre desenvolvimento de jogos e cybersecurity. 🖲️<br><br>- 🔭 Trabalho como desenvolvedor Web Fullstack Node/Rect.js.<br>- 📚 Atualmente aprendendo Cybersecurity e Low Level Programming.<br>- ⚡ No meu tempo livre me estresso jogando FPS e aprendendo a desenvolver jogos.<br><br>🇬🇧 I've english support man!<br>🇫🇷 Si vous préférez, je parle un peu mieux en français.<br><br>From Brazil 🇧🇷</p>
+<p align="left">Entusiasta por tecnologia, apaixonado por conhecimento, curioso por tudo. 💙<br>Atualmente mais experiente em tecnologias WEB. 🕸️<br>Aprendendo cada vez mais sobre desenvolvimento de jogos e cybersecurity. 🖲️<br><br>- 🔭 Trabalho como desenvolvedor Web Fullstack Node/Rect.js.<br>- 📚 Atualmente aprendendo Cybersecurity, Low Level Programming e Game Design.<br>- ⚡ No meu tempo livre me estresso jogando FPS e aprendendo a desenvolver jogos.<br><br>🇬🇧 I've english support man!<br>🇫🇷 Si vous préférez, je parle un peu mieux en français.<br><br>From Brazil 🇧🇷</p>
 
 ###
 

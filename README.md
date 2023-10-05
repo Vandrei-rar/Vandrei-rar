@@ -62,3 +62,4 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vandrei-rar&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=j/n[/Y]&order=3" height="220" alt="streak graph"  />
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vandrei-rar&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
